@@ -1,4 +1,5 @@
-(assets/qa_test.jpg)
+(https://github.com/Skyliweek/Skyliweek/blob/main/assets/qa_test.jpg)
+
 ФИО:
 
 Контактная информация:
