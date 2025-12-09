@@ -7,4 +7,4 @@
 |:--:|:--:|
 
 ### Сертификаты:
-![Сертификат](https://github.com/Skyliweek/Skyliweek/blob/main/assets/Certificate.jpeg?raw=true)
+![Сертификат] <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Certificate.jpeg?raw=true)" alt="Сертификат" width="100"/>
