@@ -1,4 +1,4 @@
-![Приветствие](https://github.com/Skyliweek/Skyliweek/blob/main/assets/qa_test.jpg)
+![Приветствие]
 
 ## <p style="text-align: center;">Начинающий тестировщик</p>
 
@@ -8,3 +8,4 @@
 ## Навыки:
 
 ## Электронные сертификаты:
+(assets/Сертификат Тестирование ПО.jpeg)
