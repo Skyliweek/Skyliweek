@@ -1,10 +1,11 @@
-## <p>Барсукова Юлия</p>
+# <p>Барсукова Юлия</p>
 
 ## <p style="text-align: center;">Начинающий тестировщик</p>
 
-## Образование: 
+### Образование: 
+![Логотип университета](https://github.com/Skyliweek/assets/University.jpg)
 Казанский государственный финансово-экономический институт, специальность: бухгалтерский учет, анализ и аудит.
 
 
-## Cертификаты:
-[Image alt](https://github.com/Skyliweek/Skyliweek/assets/'Сертификат Тестирование ПО.jpeg')
+### Сертификаты:
+![Сертификат](https://github.com/Skyliweek/Skyliweek/assets/Certificate.jpeg)
