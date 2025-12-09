@@ -7,4 +7,4 @@
 
 
 ## Cертификаты:
-[Image alt]('https://github.com/Skyliweek/Skyliweek/assets/Сертификат Тестирование ПО.jpeg')
+[Image alt](https://github.com/Skyliweek/Skyliweek/assets/'Сертификат Тестирование ПО.jpeg')
