@@ -8,3 +8,4 @@
 
 ### Сертификаты:
 <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Certificate.jpeg?raw=true)" alt="Сертификат" width="500"/>
+<img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Postman.jpg?raw=true)" alt="Сертификат" width="500"/>
