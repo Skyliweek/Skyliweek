@@ -12,7 +12,7 @@
 <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Postman.jpg?raw=true" alt="Сертификат" width="500"/>
 -->
 
-| <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Certificate.jpeg?raw=true" width="250"> | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Postman.jpg?raw=true" width="250"> |
+| <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Certificate.jpeg?raw=true" width="400"> | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Postman.jpg?raw=true" width="400"> |
 |:-----------------------------------------:|:-----------------------------------------:|
 | **Курс «Тестирование ПО с нуля. Уровень BASIC»** | **Тестирование ПО: Postman для тестирования API** |
 | Руководитель: Артём Русов              | Руководитель: Константин Барзаковский |
