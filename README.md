@@ -7,17 +7,13 @@
 |:--:|:--:|
 
 ### Дополнительное образование:
+<table style="width: 100%; table-layout: fixed;">
 | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | Тестирование ПО с нуля. Теория + Практика. Уровень BASIC. Преподаватель: Артём Русов.<br> Год: 2025. |
 |:--:|:--:|
 
 | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | Тестирование ПО: Postman для тестирования API. Преподаватель: Константин Барзаковский.<br> Год: 2025. |
 |:--:|:--:|
-
-| <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | <div style="width: 100%; white-space: normal;">Тестирование ПО с нуля. Теория + Практика.<br>Уровень BASIC. Преподаватель: Артём Русов. Год: 2025.</div> |
-|:--:|:--:|
-
-| <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | <div style="width: 100%; white-space: normal;">Тестирование ПО: Postman для тестирования API.<br>Преподаватель: Константин Барзаковский. Год: 2025.</div> |
-|:--:|:--:|
+</table>
 
 ### Изученные инструменты:
 <p align="center">
