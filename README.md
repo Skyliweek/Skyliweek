@@ -7,40 +7,14 @@
 |:--:|:--:|
 
 ### Дополнительное образование:
-<!-- Первая таблица -->
-<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-  <tr>
-    <td style="width: 50px; vertical-align: middle; text-align: center;">
-      <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50" style="display: block;"/>
-    </td>
-    <td style="vertical-align: middle;">
-      <div style="font-weight: bold;">Тестирование ПО с нуля. Теория + Практика.</div>
-      <div>Преподаватель: Артём Русов.</div>
-    </td>
-  </tr>
-</table>
-
-<!-- Вторая таблица -->
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50px; vertical-align: middle; text-align: center;">
-      <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50" style="display: block;"/>
-    </td>
-    <td style="vertical-align: middle;">
-      <div style="font-weight: bold;">Тестирование ПО: Postman для тестирования API.</div>
-      <div>Преподаватель: Константин Барзаковский.</div>
-    </td>
-  </tr>
-</table>
-<!--
-| <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | Тестирование ПО с нуля. Теория + Практика. Уровень BASIC.
-Преподаватель: Артём Русов. |
+| <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | <div>Тестирование ПО с нуля. Теория + Практика. Уровень BASIC.</div>
+<div>Преподаватель: Артём Русов.</div> |
 |:--:|:--:|
 
-| <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | Тестирование ПО: Postman для тестирования API. 
-Преподаватель: Константин Барзаковский. |
+| <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | <div>Тестирование ПО: Postman для тестирования API.</div> 
+<div>Преподаватель: Константин Барзаковский.</div> |
 |:--:|:--:|
--->
+
 
 ### Изученные инструменты:
 <p align="center">
