@@ -10,6 +10,7 @@
 
 | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | Тестирование ПО с нуля. Теория + Практика. Уровень BASIC. Преподаватель: Артём Русов. |
 |:--:|:--:|
+
 | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/> | Тестирование ПО: Postman для тестирования API. Преподаватель: Константин Барзаковский. |
 |:--:|:--:|
 
