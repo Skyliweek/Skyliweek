@@ -3,6 +3,7 @@
 ## <p style="text-align: center;">QA инженер</p>
 
 ### Образование: 
+
 | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/University.jpg?raw=true" alt="Логотип университета" width="50"/> | Казанский государственный финансово-экономический институт, специальность: бухгалтерский учет, анализ и аудит. |
 |:--:|:--:|
 
@@ -16,6 +17,7 @@
 
 
 ### Изученные инструменты:
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
@@ -29,12 +31,17 @@
 
 
 ### Сертификаты:
-<!--
-<img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Certificate.jpeg?raw=true" alt="Сертификат" width="500"/>
-<img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Postman.jpg?raw=true" alt="Сертификат" width="500"/>
--->
 
 | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Certificate.jpeg?raw=true" width="400"> | <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Postman.jpg?raw=true" width="400"> |
 |:-----------------------------------------:|:-----------------------------------------:|
 | **Курс «Тестирование ПО с нуля. Уровень BASIC»** | **Тестирование ПО: Postman для тестирования API** |
 | Преподаватель: Артём Русов              | Преподаватель: Константин Барзаковский |
+
+
+### Контакты
+<p align="center">
+  <a href="https://t.me/Ju1ia_Barsukova"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="Skyliweek@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="Skyliweek@mail.ru"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8miRhGlV3Y-Slp03iI6LyzzvBrzBl5HJ2qw&s" width="40" height="40" alt="Mail"/></a>
+
+</p>
