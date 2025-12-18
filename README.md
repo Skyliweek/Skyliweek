@@ -41,7 +41,7 @@
 ### Контакты
 <p align="center">
   <a href="https://t.me/Ju1ia_Barsukova"><img src="https://images.icon-icons.com/2657/PNG/256/telegram_icon_161085.png" width="40" height="40" alt="Telegram"/></a>
-  <a href="mailto:Skyliweek@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
-  <a href="mailto:Skyliweek@mail.ru"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8miRhGlV3Y-Slp03iI6LyzzvBrzBl5HJ2qw&s" width="40" height="40" alt="Mail"/></a>
+  <a href="mailto:skyliweek@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="mailto:skyliweek@mail.ru"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8miRhGlV3Y-Slp03iI6LyzzvBrzBl5HJ2qw&s" width="40" height="40" alt="Mail"/></a>
 
 </p>
