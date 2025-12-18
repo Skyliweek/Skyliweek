@@ -7,7 +7,7 @@
 |:--:|:--:|
 
 ### Дополнительное образование:
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: auto;">
   <tr>
     <td style="width: 50px; text-align: center;">
       <img src="https://github.com/Skyliweek/Skyliweek/blob/main/assets/Stepik.png?raw=true" alt="Stepik" width="50"/>
